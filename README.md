@@ -1,4 +1,4 @@
-### Olá! Eu sou o André Matos 😀
+### Olá! Eu sou o André Matos, tenho 16 anos e sou apaixonado por programação 😀
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://discord.gg/xt)
 
